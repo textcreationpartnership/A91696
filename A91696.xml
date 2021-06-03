@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the Round-Heads: being a zealous declaration of the grievances where-with their little wits are consumed to destruction. And what things they (in their wisedome yet left them) conceive fit to be reformed.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91696</idno><idno type="EEBO-CITATION">99869708</idno>
+  <idno type="VID">156381</idno>
+  <idno type="EEBO-PROQUEST">2240932124</idno>
+  
+            <idno type="STC">Wing R1156</idno>
+            <idno type="STC">Thomason E132_39</idno>
+            <idno type="STC">ESTC R21096</idno>
+            <idno type="PROQUEST">99869708</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99869708e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156381)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the Round-Heads: being a zealous declaration of the grievances where-with their little wits are consumed to destruction. And what things they (in their wisedome yet left them) conceive fit to be reformed.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, Anno Domini, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Roundheads --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politcs and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156381:1"/>
+            <pb facs="tcp:156381:1"/>
+            <p>THE RESOLUTION OF THE ROUND<g ref="char:EOLhyphen"/>HEADS: BEING A ZEALOVS DECLARATION OF THE GRIEVANCES WHERE<g ref="char:EOLhyphen"/>WITH THEIR LITTLE WITS ARE CONSUMED TO DESTRVCTION.</p>
+            <p>AND What things they (in their Wisedome yet left them) conceive fit to be reformed.</p>
+            <p>LONDON, Printed, <hi>Anno Domini,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156381:2"/>
+            <pb facs="tcp:156381:2"/>
+            <head>The Round-heads Resolution.</head>
+            <p>WHereas we are through our great Ignorance and obstinancy grown to a most seditious and malig<g ref="char:EOLhyphen"/>nant head, and the hornes of that head (though of a maine length) not able to support our arrogant faction, as ap<g ref="char:EOLhyphen"/>peares by our last being soundly slasht and bastina<g ref="char:EOLhyphen"/>doed by a mad crew called the Cavallery; and whereas a great part of us have shut up our Shops because we could no longer keepe them open, which kinde of shutting up proceedeth, commonly, from our vast expence in White-Broaths, Custards and other luxurious Dishes provided for the Edi<g ref="char:EOLhyphen"/>fication one of another. And whereas the Multi<g ref="char:EOLhyphen"/>tude, called true Protestants, endeavour to hold up Bishops to maintaine good Order, Discipline and Orthodox Preaching in the Church; Learning and Arts in the Universities, and peace in the Com<g ref="char:EOLhyphen"/>mon wealth; all which is nothing but Idolatry, Superstition, Prophanesse, and plaine Popery: and further, wheras we (who are nothing properly but <hi>Round-heads</hi> and <hi>Prickeares</hi>) are in most scan<g ref="char:EOLhyphen"/>dalous manner tearmed Puritans, Holy Brethren, the Zealots of the Land, and which in sincerity we never were, or ever will be.</p>
+            <p>And forasmuch likewise, as the prophane world of true Protestants are a stiffe-necked Generati<g ref="char:EOLhyphen"/>on, and will not yeeld unto us the preheminence
+<pb facs="tcp:156381:3"/>of Doctrine and Religion, notwithstanding the many sensles two houres of those spirituall Trum<g ref="char:EOLhyphen"/>pets of our faction the sanctified Clergie Lecturers or of their more Divine Lectures or of their Su<g ref="char:EOLhyphen"/>preame Shee-Lecturers, whose bowells doe even earne for the getting in of the Saints unto them and have as it were even a zealous lusting after them.</p>
+            <p>And for as much as the Religion professed by us is the purest and most decent, as appeares by the great love and comunity betwixt the brethren and the Sisters, the conveniency of the woods, Saw-pitts and darke places, the putting out lights and defying of those Tapers of Iniquitie, which cause us to be<g ref="char:EOLhyphen"/>hold our owne wicked deeds, the goodlie bignes of the eare, with the shortnes of the haire, which hin<g ref="char:EOLhyphen"/>dereth not the sound of the Sheepheards voice, but easily heareth him call to a great Feast amongst the rich Saints the length &amp; sharpnes of the nose which not onely smelleth the sweete savours of the holy Plum-broath but also promiseth an eager apitite to some good worke towards the younger Sisters, the roundnesse of the Ruffe the length of the Dublet and the shortnesse of the Breaches, being a habit correspondent to the Pictures of the Apostles in the Geneva print, the mightinesse of our faith which is able to remove a Church into a Wood, the transpa<g ref="char:EOLhyphen"/>rency of our charity that is so invisible that neither the right hand nor the left did ever know it, the mul<g ref="char:EOLhyphen"/>titude of our good workes which no man living can number, the godlie works of our tautologicall pray<g ref="char:EOLhyphen"/>ers and the zeale thereof, which brings us even to di<g ref="char:EOLhyphen"/>vine
+<pb facs="tcp:156381:3"/>consumption, whereby we look like the Prodi<g ref="char:EOLhyphen"/>gall Son at his returne home, or the Priests in the Arras, the defying of all Fathers, Bishops, and Do<g ref="char:EOLhyphen"/>ctors, conformable Persons, Canonicall Robes, Ec<g ref="char:EOLhyphen"/>clesiasticall Gestures and utensils, all Learning, li<g ref="char:EOLhyphen"/>berall Arts and degrees, as the raggs of superstition, the dregs of Popery are obhominable in the goggle eyes of a right <hi>Roundhead;</hi> and yet this simple inno<g ref="char:EOLhyphen"/>cent profession is scorned and baffiled, and by whom? but by Schollers, and such as professe Learning, which is no more necessary to Religion, then a pub<g ref="char:EOLhyphen"/>like Church (which verily) is but a den of theeves, when we are absent.</p>
+            <p>All which grievances doe stand with much rea<g ref="char:EOLhyphen"/>son, and therefore are utterly against our tender Con<g ref="char:EOLhyphen"/>sciences, and never were allowed by any Synod of <hi>More-field<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> or <hi>Pimlico.</hi>
+            </p>
+            <p>That therefore which we do now resolve to main<g ref="char:EOLhyphen"/>tains and desire to have confirmed, and never to be altered (till some new toy tickle us in the <hi>Pericrani<g ref="char:EOLhyphen"/>um,</hi> which will be very shortly) is,</p>
+            <p n="1">1 That our Religion, Tenants, and Mannors before mentioned be established and maintained against all Reason, Learning, Divinity, Order, Discipline, Morality, Piety, or Humanity whatsoever.</p>
+            <p n="2">2 That the very name of Bishops, shall be a suf<g ref="char:EOLhyphen"/>ficient Jury and Judge, to condemne any of them, without any further Evidence or Circumstance.</p>
+            <p n="3">3 That if any man whatsoever having know<g ref="char:EOLhyphen"/>ledge in the Latine Tungue (being a Popish Lan<g ref="char:EOLhyphen"/>guage) shall presume to thinke he can save a Soule by Preaching, he be excommunicated both in this
+<pb facs="tcp:156381:4"/>World and in the World to come; unlesse it be some certain Lecturers of whose approved rayling and ignorance, we are well assured and have knowne to stand six houres on a fasting day.</p>
+            <p n="4">4 That the Feltmaker and the Cobler, two inno<g ref="char:EOLhyphen"/>cent Cuckolds may be instituted Primats and Me<g ref="char:EOLhyphen"/>tropolicans of the two Arch Provinces, and the rest of the Sect preserved, according to their imbicili<g ref="char:EOLhyphen"/>ties of Spirit, to such Bishopricks and other livings, as will competently serve to procure fat poultry for the filling of their insatiate Stomacks, in which regard, Church livings had more need to be increa<g ref="char:EOLhyphen"/>sed then diminished.</p>
+            <p n="5">5 That no men whatsoever, who beares the name of a Caviler, may be capable of making any of the Brethren a Cuckold, unlesse he cut his haire and altar his profession; but be excluded from the Conventicles, as the Kings friend and a Reprobate.</p>
+            <p n="6">6 Lastly, That there be two whole daies set a part to Fast and Pray, for the confusion of all that are not thus resolved.</p>
+            <q>
+               <lg>
+                  <l>I come to charge yee</l>
+                  <l>That slight the Clergie,</l>
+                  <l>And pull the Miter from the Prelats head;</l>
+                  <l>That you will be warie,</l>
+                  <l>Least you miscarrie,</l>
+                  <l>In all these factious humours you have bred,</l>
+                  <l>But as for Brownists wee'l have none,</l>
+                  <l>But take them all, and hang them one by one.</l>
+               </lg>
+               <pb facs="tcp:156381:4"/>
+               <lg>
+                  <l>Your wicked actions,</l>
+                  <l>Joyn'd in factions,</l>
+                  <l>Are all but aymes to rob the King of his due,</l>
+                  <l>Then give this reason,</l>
+                  <l>For your treason,</l>
+                  <l>That you'l be rul'd, if hee'l be rul'd by you;</l>
+                  <l>Then leave these factions zealous brother,</l>
+                  <l>Least you be hanged one against another.</l>
+               </lg>
+               <lg>
+                  <l>Your Wit abounded,</l>
+                  <l>Gentle Round-head,</l>
+                  <l>When you abus'd the Bishops in a Ditty,</l>
+                  <l>When as you sanged,</l>
+                  <l>They must be hanged,</l>
+                  <l>A Timpinee of malice made you witty,</l>
+                  <l>And though your hot zeale made you bold</l>
+                  <l>When you are hang'd, your arse will be a cold.</l>
+               </lg>
+               <lg>
+                  <l>Then leave confounding,</l>
+                  <l>And expounding,</l>
+                  <l>The Doctrine that you Preach in Tubbs,</l>
+                  <l>You raise this warring,</l>
+                  <l>And private jarring,</l>
+                  <l>I doubt, in time, will prove the Knave of Clubbs.</l>
+                  <l>It's for your lying, and not for your Oathes,</l>
+                  <l>You shall be hang'd, and <hi>Greg</hi> shall have your Cloathes.</l>
+               </lg>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
